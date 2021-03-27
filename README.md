@@ -2,6 +2,8 @@
 
 
 SEO optimizations on WordPress
+
+
 1.Find what people are searching for
 2.choose people who you want to reach
 3.Find out what a user is looking for
@@ -21,6 +23,7 @@ submit a sitemap-which is a page that has all pages and posts that you have.
 TO submit your sitemap you need to go back to your Yoast SEO plugin
  go to wordpress => SEO =>Features=>XML sitemaps=>click the ? mark then =>see sitemap
 
+check this video on more details:
 https://www.youtube.com/watch?v=tu501rOVMGc
 
 then you submit that site map on the sitemap on Google site kit
